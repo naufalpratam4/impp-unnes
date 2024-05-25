@@ -1,4 +1,4 @@
-<div class="border-2 fixed w-full ">
+<div class="border-2 fixed w-full z-10 ">
     <div class="navbar bg-base-100 px-20">
         <div class="flex-1">
             <a class="font-semibold text-xl text-blue-500">IMPP</a>

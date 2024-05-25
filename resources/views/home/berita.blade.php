@@ -1,4 +1,4 @@
-<div class="" style="height: 100vh" id="berita">
+<div class="z-0" style="height: 100vh" id="berita">
     <div class="text-center pt-20">
         <div class="font-semibold text-blue-500 pb-4">BLOG</div>
         <div class="text-5xl">Berita Terkini!</div>
